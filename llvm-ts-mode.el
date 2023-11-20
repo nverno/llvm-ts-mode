@@ -171,7 +171,7 @@
      (global_type (local_var) @font-lock-variable-name-face)
      (global_global (global_var) @font-lock-variable-name-face)
 
-     (global_metadata (metadata_ref) @llvm-ts-mode-metadata-ref-face)     
+     (global_metadata (metadata_ref) @llvm-ts-mode-metadata-ref-face)
      (summary_entry (summary_ref) @llvm-ts-mode-metadata-ref-face)
      (comdat (comdat_ref) @font-lock-variable-name-face)
      
